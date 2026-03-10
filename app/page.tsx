@@ -52,8 +52,8 @@ export default function Home() {
         </section>
 
         {/* Footer */}
-        <footer className="mt-24 border-t border-gray-200 pt-8 text-center text-sm text-gray-500">
-          © 2026 TabeebHub. All rights reserved.
+        <footer className="mt-16 border-t border-gray-200 pt-8 text-center text-sm text-gray-500">
+          © 2026 Carmel. TabeebHub is a clinic management platform that helps clinics manage patients, appointments, prescriptions, and payments.
         </footer>
       </main>
     </div>
